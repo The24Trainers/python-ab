@@ -1,9 +1,0 @@
-
-# is
-list = ["farhan", "ahmed", "ali", "zain", "hassan"]
-
-# is not
-
-
-# print("farhan" is list[0])
-# print("farhan" is not list[0])
